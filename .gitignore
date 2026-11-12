@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+
+.local-runtime/
+
+# Local references, preview captures, and source archives
+/*.zip
+/*preview.png
+/portrait-desktop-review.png
+/Monica Lasprilla Creative Portfolio Mockup.png
+.DS_Store
+.vercel/
+*.log
